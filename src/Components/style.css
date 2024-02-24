@@ -1,0 +1,234 @@
+.container img{
+    width:60vh;
+    height:90vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   margin-top:3%;
+   border-radius: 10px;
+   
+}
+.log{
+    border:1px solid black;
+    width:60vh;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    height:90vh;
+    margin-left: 500px;
+    margin-bottom: 200px;
+    border-radius: 20px;
+}
+#title{
+    font-size: 30px;
+    font-family:monospace;
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
+    color: black;
+    margin-top: -30px;
+    
+}
+#titles{
+    font-size: 30px;
+    font-family:monospace;
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
+    color: black;
+    margin-top: 80px;
+}
+#titless{
+    font-size: px;
+    font-family:monospace;
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
+    color: black;
+    margin-top: 20px;
+    
+}
+#titlesss{
+    font-size: 20px;
+    font-family:monospace;
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
+    color: black;
+    margin-top: 30px;
+    
+}
+.Log{
+    margin-top: 100px;
+    margin-left: 93px;
+    overflow-y: auto;
+    max-height: 170px;
+}
+button:hover{
+    background-color: lightseagreen;
+    color: white ;
+
+}
+.link a:hover{
+    color: royalblue;
+}
+#user{
+    border-style: none;
+    padding: 10px;
+    background-color: rgba(255,255,255,1.0);
+    border-radius: 10px;
+    color: black;
+
+}
+.password{
+    margin-top: 4%;
+}
+.codes{
+    margin-top: 25%;
+}
+#but{
+    margin-top: 20px;
+    padding: 10px;
+    width: 80px;
+    border-style: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family:monospace;
+}
+.link{
+    font-size: 13px;
+    margin-top: 20px;
+    font-family:monospace;
+}
+.link a{
+    text-decoration: none;
+    color: black;
+    font-family:monospace;
+}
+.link a:hover{
+    
+    color:royalblue
+}
+#area{
+    margin-left: -20px;
+    margin-top: -20px;
+    width: 270px;
+    height: 200px;
+    border-style: none;
+    border-radius: 5px;
+
+}
+.Label{
+    margin-left: -290px;
+    margin-top: 50px;
+}
+.pag{
+    font-size: 38px;
+    font-family:monospace;
+    margin-top: 150px;
+    text-align: center;
+}
+.words{
+    text-align: center;
+    font-size: 13px;
+    font-family: monospace;
+}
+.exp{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: inset;
+    background: linear-gradient(to bottom, rgb(94, 255, 0), rgb(255, 255, 255));
+}
+.exp a {
+    text-decoration: none;
+    color: black;
+}
+.exp a:hover{
+    color: white;
+}
+.List{
+    list-style-type: none;
+    text-decoration: none;
+}
+#poke{
+    margin-top: 20px;
+    padding: 10px;
+    width: 190px;
+    border-style: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family:monospace;
+    background: linear-gradient(to bottom, rgb(245, 235, 121), rgb(236, 214, 45));
+}
+#pokemon{
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(to bottom, rgb(96, 203, 227), rgb(45, 236, 220));
+}
+.api{
+    margin-top: 50px;
+}
+.api ui li {
+    list-style: none;
+}
+.api ui li a{
+    text-decoration: none;
+    font-family: monospace;
+}
+.Txtarea{
+    width: 270px;
+    height: 150px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.spe1{
+    padding: 10px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: lightgreen;
+    font-family: monospace;
+}
+.spe2{
+    padding: 10px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: lightcoral;
+    font-family: monospace;
+}
+.word{
+    font-family: monospace;
+    margin-top: 80px;
+}
+.words{
+    font-family: monospace;
+    margin-top: 20px;
+    padding: 5px;
+}
+#term{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    background:aquamarine;
+}
+.spe11{
+    padding: 10px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: lightpink;
+    font-family: monospace;
+}
+.spe3{
+    padding: 10px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: olive;
+    font-family: monospace;
+}
+.word2{
+    font-family: monospace;
+    margin-top: 40px;
+}
+.wordss{
+    font-family: monospace;
+}
